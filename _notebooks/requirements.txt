@@ -1,0 +1,9 @@
+pandas
+nltk
+seaborn
+requests
+bs4
+numpy
+matplotlib
+sklearn
+string
