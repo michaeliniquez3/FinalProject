@@ -5,4 +5,8 @@ requests
 bs4
 numpy
 matplotlib
+<<<<<<< HEAD
 sklearn
+=======
+sklearn
+>>>>>>> 1c689fbabe841096b1cb3620c771d050abd20497
