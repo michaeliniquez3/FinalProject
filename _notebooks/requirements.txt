@@ -6,4 +6,3 @@ bs4
 numpy
 matplotlib
 sklearn
-string
