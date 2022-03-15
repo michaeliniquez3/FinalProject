@@ -8,6 +8,8 @@ https://michaeliniquez3.github.io/FinalProject/
 
 # My Blog
 
+To get an interactive version of the Final Project Notebook, click here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaeliniquez3/FinalProject.git/HEAD)
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
@@ -27,6 +29,3 @@ Great!  You have setup your repo.  Now its time to start writing content.  Some 
 Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
 
 Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
-
-To get an interactive version of the Fianl Project Notebook, click here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaeliniquez3/FinalProject.git/HEAD)
